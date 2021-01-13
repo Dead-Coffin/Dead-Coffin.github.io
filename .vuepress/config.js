@@ -45,7 +45,7 @@ module.exports = {
       },
       {
         text: 'Join Server',
-        link: '#'
+        link: 'steam://connect/104.217.248.10:27514'
       },
     ],
     sidebar: {
