@@ -4,6 +4,9 @@ module.exports = {
   description: 'A lightly modded Rust server with a shop and better life mods.',
 
   plugins: [
+    ['@vuepress/google-analytics', {
+      'ga': '',
+    }],
     ['@vuepress/search', {
       searchMaxSuggestions: 10
     }],
