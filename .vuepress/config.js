@@ -58,6 +58,17 @@ module.exports = {
           collapsable: false,
           children: [
             '/project/intro.md',
+            '/project/commands.md',
+          ]
+        }
+      ],
+      '/staff/': [
+        {
+          title: 'Information',
+          collapsable: false,
+          children: [
+            '/staff/info/guidelines.md',
+            '/staff/info/commands.md',
           ]
         }
       ],
