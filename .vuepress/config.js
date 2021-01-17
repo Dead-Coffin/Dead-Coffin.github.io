@@ -58,6 +58,7 @@ module.exports = {
           collapsable: false,
           children: [
             '/project/intro.md',
+            '/project/rules.md',
             '/project/commands.md',
           ]
         }
