@@ -68,7 +68,6 @@ module.exports = {
           title: 'Information',
           collapsable: false,
           children: [
-            '/staff/info/guidelines.md',
             '/staff/info/commands.md',
           ]
         }

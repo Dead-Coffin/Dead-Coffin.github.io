@@ -1,1 +1,0 @@
-# Staff Guidelines
