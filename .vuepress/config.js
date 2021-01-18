@@ -39,12 +39,20 @@ module.exports = {
     logo: '/icon.png',
     nav: [
       {
-        text: 'Documentation',
+        text: 'Info',
         link: '/project/intro.md',
       },
       {
         text: 'Discord',
         link: 'https://discord.gg/Z4bGRtg'
+      },
+      {
+        text: 'Donate',
+        link: 'https://www.patreon.com/DeadCoffin'
+      },
+      {
+        text: 'Vote',
+        link: 'https://rust-servers.net/server/159347/vote/'
       },
       {
         text: 'Join Server',
